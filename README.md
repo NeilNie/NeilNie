@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Neil, a software engineer and computer science student at Columbia University, School of Engineering. I am currently working as a software engineer intern at Apple 🍎. 
+
+My background is in iOS development, computer vision, robotics (specifically self-driving cars).
+
+- 📫 How to reach me: contact@neilnie.com
+- 💬 Ask me about: WWDC,self-driving cars, computer vision, jazz 🎷...
+- 💻 Website: [neilnie.com](neilnie.com)
+
 <!--
 **NeilNie/NeilNie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
