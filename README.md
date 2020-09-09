@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Neil, a software engineer and computer science student at Columbia University, School of Engineering. I am currently working as a software engineer intern at Apple 🍎. 
+My name is Neil, a software engineer and computer science student at Columbia University, School of Engineering. Previously, I was a software engineer intern at Apple 🍎. 
 
 My background is in iOS development, computer vision, robotics (specifically self-driving cars).
 
