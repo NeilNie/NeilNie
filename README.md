@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Neil, a software engineer and computer science student at Columbia University, School of Engineering. During the summer of 2020 and 2021, I have been working at Apple as a software engineer intern on the CoreMotion team. 
+My name is Neil, a software engineer, third year computer science student at Columbia University, School of Engineering. During the summer of 2020 and 2021, I worked at Apple's CoreMotion team as a software and algorithms engineer. 
 
-My background is in iOS development, computer vision, robotics (specifically self-driving cars).
+My background is in deep learning, computer vision, robotics.
 
 - 📫 How to reach me: contact@neilnie.com
 - 💬 Ask me about: WWDC,self-driving cars, computer vision, jazz 🎷...
