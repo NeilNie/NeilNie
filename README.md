@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is Neil, a software engineer, third year computer science student at Columbia University, School of Engineering. During the summer of 2020 and 2021, I worked at Apple's CoreMotion team as a software and algorithms engineer. 
+My name is Neil, a software engineer, 4th year student at [Columbia University](https://www.engineering.columbia.edu/) School of Engineering studying computer science applied math. During the summer of 2020, 2021, 2022, I worked at Apple's CoreMotion team as a software and algorithms engineer. I am also a researcher at Columbia AI and Robotics lab [(CAIR)](https://cair.cs.columbia.edu/) , adviced by Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/index.html). 
 
 My background is in deep learning, computer vision, robotics.
 
 - 📫 How to reach me: contact@neilnie.com
-- 💬 Ask me about: WWDC,self-driving cars, computer vision, jazz 🎷...
+- 💬 Ask me about: WWDC, robotics, self-driving cars, computer vision, jazz 🎷...
 - 💻 Website: [neilnie.com](neilnie.com)
+- LinkedIn: https://www.linkedin.com/in/neilnie/
 
 <!--
 **NeilNie/NeilNie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
