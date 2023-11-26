@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Neil, a software engineer, 4th year student at [Columbia University](https://www.engineering.columbia.edu/) School of Engineering studying computer science applied math. During the summer of 2020, 2021, 2022, I worked at Apple's CoreMotion team as a software and algorithms engineer. I am also a researcher at Columbia AI and Robotics lab [(CAIR)](https://cair.cs.columbia.edu/) , adviced by Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/index.html). 
+My name is Neil, a first year MS CS student at [Stanford](www.stanford.edu) studying computer science. I recently graduated [Columbia University](https://www.engineering.columbia.edu/) with a BS in CS. In the past, I was a part of Apple's Human Interface Devices (HID), CoreMotion, and Motion Fitness teams as a software engineer and applied scientist, focusing on computer vision and modeling. I was a researcher at Columbia AI and Robotics lab [(CAIR)](https://cair.cs.columbia.edu/) , adviced by Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/index.html). 
 
-My background is in deep learning, computer vision, robotics.
+My background is in deep learning, LLMs, computer vision and robot learning.
 
 - 📫 How to reach me: contact@neilnie.com
-- 💬 Ask me about: WWDC, robotics, self-driving cars, computer vision, jazz 🎷...
+- 💬 Ask me about: robot learning, apple, WWDC, self-driving cars, computer vision, jazz 🎷...
 - 💻 Website: [neilnie.com](neilnie.com)
 - LinkedIn: https://www.linkedin.com/in/neilnie/
 
