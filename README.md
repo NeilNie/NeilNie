@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-My name is Neil, a first year MS CS student at [Stanford](www.stanford.edu) studying computer science. I recently graduated [Columbia University](https://www.engineering.columbia.edu/) with a BS in CS. In the past, I was a part of Apple's Human Interface Devices (HID), CoreMotion, and Motion Fitness teams as a software engineer and applied scientist, focusing on computer vision and modeling. I was a researcher at Columbia AI and Robotics lab [(CAIR)](https://cair.cs.columbia.edu/) , adviced by Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/index.html). 
+My name is Neil, a second-year MS CS student at [Stanford](www.stanford.edu) studying computer science. I graduated [Columbia University](https://www.engineering.columbia.edu/) in 2023 with a BS in CS. In the past, I have been a part of Apple's Vision Pro Algorithms, Human Interface Devices (HID), Motion Interaction, and Motion Fitness teams, working on real-time sensing computer vision, and generative AI.
 
-My background is in deep learning, LLMs, computer vision and robot learning.
+I am also a researcher at Stanford's SVL lab, and was a researcher at Columbia AI and Robotics lab [(CAIR)](https://cair.cs.columbia.edu/) , adviced by Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/index.html). 
+
+My background is in embodied AI (robotics), LLMs, and computer vision.
 
 - 📫 How to reach me: contact@neilnie.com
-- 💬 Ask me about: robot learning, apple, WWDC, self-driving cars, computer vision, jazz 🎷...
+- 💬 Ask me about: robotics, Apple, WWDC, self-driving cars, computer vision, jazz 🎷...
 - 💻 Website: [neilnie.com](neilnie.com)
+- 📄 Google Scholar: [Neil's Page](https://scholar.google.com/citations?user=-xDeBSYAAAAJ&hl=en)
 - LinkedIn: https://www.linkedin.com/in/neilnie/
 
 <!--
