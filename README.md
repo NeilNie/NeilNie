@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Neil, a second-year MS CS student at [Stanford](www.stanford.edu) studying computer science. I graduated [Columbia University](https://www.engineering.columbia.edu/) in 2023 with a BS in CS. In the past, I have been a part of Apple's Vision Pro Algorithms, Human Interface Devices (HID), Motion Interaction, and Motion Fitness teams, working on real-time sensing computer vision, and generative AI.
+My name is Neil, a second-year MS CS student at [Stanford](www.stanford.edu) studying computer science. I graduated [Columbia University](https://www.engineering.columbia.edu/) in 2023 with a BS in CS. 
+
+In the past, I have been a part of Apple's Vision Pro Algorithms, Human Interface Devices (HID), Motion Interaction, and Motion Fitness teams, working on real-time sensing computer vision, and generative AI.
 
 I am also a researcher at Stanford's SVL lab, and was a researcher at Columbia AI and Robotics lab [(CAIR)](https://cair.cs.columbia.edu/) , adviced by Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/index.html). 
 
