@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Neil, a second-year MS CS student at [Stanford](www.stanford.edu) studying computer science. I graduated [Columbia University](https://www.engineering.columbia.edu/) in 2023 with a BS in CS. 
+My name is Neil, I am the co-founder and CEO of [Verne Robotics](https://www.vernerobotics.com). Previously, I dropped out of my PhD in CS at Berkeley, and completed my MS in CS at [Stanford](www.stanford.edu). I graduated [Columbia University](https://www.engineering.columbia.edu/) with a BS in CS. 
 
 In the past, I have been a part of Apple's Vision Pro Algorithms, Human Interface Devices (HID), Motion Interaction, and Motion Fitness teams, working on real-time sensing, 3D computer vision, and generative AI.
 
